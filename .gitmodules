@@ -1,0 +1,3 @@
+[submodule "src/components/miniUI"]
+	path = src/components/miniUI
+	url = https://github.com/codebiu/miniUI.git
