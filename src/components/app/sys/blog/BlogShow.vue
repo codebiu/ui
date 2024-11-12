@@ -9,7 +9,7 @@ import { markedHighlight } from 'marked-highlight'
 import { ref, shallowRef } from 'vue'
 import hljs from 'highlight.js'
 import 'highlight.js/styles/foundation.css'
-import { debounceBase } from '@/components/common/miniExtension/utils/debounce'
+import { debounceBase } from '@/components/miniUI/miniExtension/utils/debounce'
 import type { MarkedOptions } from 'marked'
 const render = new marked.Renderer()
 

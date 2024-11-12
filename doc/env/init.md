@@ -3,6 +3,8 @@
 ```sh
 # 国内 淘宝 镜像源
 pnpm config set registry https://registry.npmmirror.com/
+# 腾讯
+pnpm config set registry https://mirrors.cloud.tencent.com/npm/
 # 官方镜像源
 pnpm config set registry https://registry.npmjs.org/
 

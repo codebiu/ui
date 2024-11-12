@@ -16,7 +16,6 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "@mediapipe/tasks-vision": "^0.10.17",
     "@unocss/reset": "^0.60.0",
     "@vueuse/core": "^10.9.0",
     "element-plus": "^2.8.6",

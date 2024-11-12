@@ -56,11 +56,9 @@
 
 <script setup lang="ts">
 import { ref } from 'vue'
-import MinPopover from '@/components/common/minUi/button/MinPopover.vue'
 import Func_1 from './Func_1.vue'
-import ShowHidden from '@/components/common/minUi/animation/ShowHidden.vue'
 //
-import SettingSVG from '@/components/common/miniSvg/SettingSVG.vue'
+import SettingSVG from '@/components/miniUI/miniSvg/SettingSVG.vue'
 // 显隐控制
 import { SysSettingStore } from '@/stores/sys'
 // router

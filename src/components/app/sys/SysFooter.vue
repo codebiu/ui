@@ -30,9 +30,6 @@
 </template>
 
 <script setup lang="ts">
-import GithubSVG from '@/components/common/miniSvg/GithubSVG.vue'
-import DribbbleSVG from '@/components/common/miniSvg/DribbbleSVG.vue'
-import GmailSVG from '@/components/common/miniSvg/GmailSVG.vue'
 const yearNow = new Date().getFullYear()
 </script>
 

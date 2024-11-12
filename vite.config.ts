@@ -62,7 +62,7 @@ export default defineConfig({
   },
   // 开发服务设置
   server: {
-    port: 1666,
+    port: 2000,
     strictPort: true,
     host: '0.0.0.0',
     headers: {
